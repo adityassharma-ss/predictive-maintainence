@@ -15,7 +15,7 @@ This project implements a predictive maintenance system using generative AI tech
 1. Clone the repository:
 
 ```
-
+https://github.com/adityassharma-ss/predictive-maintainence
 ```
 
 2. Install the required packages:
